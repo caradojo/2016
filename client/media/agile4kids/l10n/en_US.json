@@ -1,0 +1,20 @@
+{
+
+    "accueil": {
+        "title" : "Home",
+        "title_ag": "Agile Grenoble 4Kids",
+        "date": "Saturday, nov. 19th",
+        "description": "On Saturday, new edition of the Agile conference that helps Kids to develop creativity, confidence and collective intelligence through fun workshops specially designed for the occasion."
+    },
+
+    "details" : {
+        "title": "Details",
+        "description": "Informations..."
+    },
+    
+    "ticket" : {
+        "title": "Tickets",
+        "description": "Registration on Saturday, nov. 19th afternoon",
+        "info": "To register on the classical conference day on thursday, please to back to main home"
+    }
+}

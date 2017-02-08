@@ -1,0 +1,24 @@
+{
+
+    "accueil": {
+        "title" : "Home",
+        "title_ag": "Agile Grenoble Forum",
+        "date": "Friday, nov. 18th",
+	    "description": "On Friday, which was established in 2011 to enable Agile experienced, or less experienced, to discuss topics that interest them in a free environment and uninhibited, without program, without sponsors and without obligation."  
+    },
+
+    "details" : {
+        "message": "For more details about forum behaviour ...",
+        "title": "Details",
+        "description": "Forum  is an openspace.",
+        "description2": "Come with your topics to discuss, share subjects proposed day D.",
+        "info": "Illustrated presentation"
+    },
+
+    "ticket" : {
+        "title": "Tickets",
+        "description": "Registration on Friday, nov. 18th",
+        "info": "To register on the classical conference day on thursday, please to back to main home"
+    }
+
+}

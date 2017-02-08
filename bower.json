@@ -1,0 +1,36 @@
+{
+  "name": "agile-grenoble-website",
+  "version": "0.0.0",
+  "homepage": "https://github.com/caradojo/caradojo.github.io",
+  "authors": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-gridster": "~0.11.7",
+    "angular-resource": "~1.4.3",
+    "angular-bootstrap": "~0.13.2",
+    "angular-route": "~1.4.3",
+    "bower-skrollr": "~0.6.26",
+    "jquery-waypoints": "~2.0.4",
+    "bootstrap": "~3.3.5",
+    "angular-ui-utils": "~0.1.1",
+    "angular-animate": "~1.4.3",
+    "underscore": "~1.8.3",
+    "angular-directive.g-signin": "*",
+    "angular-translate": "~2.7.2",
+    "angular-cookies": "~1.4.3",
+    "angular-translate-loader-static-files": "~2.7.2",
+    "angular-sanitize": "~1.4.3",
+    "angular-ui-notification": "~0.2.0"
+  },
+  "resolutions": {
+    "angular": "1.4.3"
+  }
+}

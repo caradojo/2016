@@ -1,0 +1,82 @@
+{
+
+    "accueil": {
+        "title" : "Agile Grenoble",
+        "title_ag" : "2016: Back to Basics of Agility",
+        "description" : {
+	        "paragraphe1" : "Do you like stories ? So if we were telling the origin of agility, would you be interested ?",
+            "paragraphe2": "This year we will make you discover or rediscover that agility is primarily <strong>technical</strong> and that it’s not so easy to frequently deliver a good quality product without having good practices. We’ll also talk about <strong>people</strong>, and the difficulty of making them work together and techniques that facilitate the build of a successful team. We will remind you that it’s for bringing <strong>value</strong> to users that we do all this. And finally, we will not forget to tell you that this requires a change of <strong>mindset</strong>, some letting go and benevolence."
+        },
+        "date": "Come to Agile Grenoble to hear the stories of those who live or attempt Agility, during one or more days, november 16-19th 2016."
+    },
+
+    "agilegreconf": {
+        "title": "Agile Grenoble Conf",
+        "date": "Thursday, nov. 17th"
+    },
+
+    "agilegrelab": {
+        "title": "Agile Grenoble Lab",
+        "date": "Wednesday, nov. 16th"
+    },
+
+	"agilegreforum": {
+        "title": "Agile Grenoble Forum",
+        "date": "Friday, nov. 18th"
+	},
+
+    "agilegre4kids": {
+        "title": "Agile Grenoble 4Kids",
+        "date": "Saturday, nov. 19th"
+    },
+	
+    "apropos" : {
+        "title": "About",
+        "description": "The conference <strong>Agile Grenoble</strong> exists since 2008 and the 2016 edition will be the 9th conference in a row. The event is wholly organized by the volunteers of the Club Agile Rhône-Alpes Grenoble, with of course the support of our sponsors and partners.",
+        "of": "of",
+        "under": "under"
+    },
+
+    "cara": {
+        "title": "Club Agile Rhône Alpes (CARA)",
+        "description": "The CARA is a non-profit association, striving to promote and disseminate agile methods in the Rhône-Alpes area to a large public, with various means: conference, seminars, meetings and partnerships.",
+        "link": {
+            "name": "Visit the CARA's web site",
+            "addr": "http://www.clubagilerhonealpes.org/"
+        }
+    },
+
+    "acces": {
+        "title": "Acces"
+    },
+
+    "emails" : {
+        "title" : "Contacts",
+        "description": "To contact us before the conference, just send us an email:",
+        "orateur" : {
+            "addr": "orateur@agile-grenoble.org",
+            "desc": "for the call for speakers and the session submissions"
+        },
+        "sponsor" : {
+            "addr": "sponsor@agile-grenoble.org",
+            "desc": "for the sponsoring"
+        },
+        "inscription" : {
+            "addr": "inscription@agile-grenoble.org",
+            "desc": "for the registrations"
+        },
+        "contact" : {
+            "addr": "contact@agile-grenoble.org",
+            "desc": "for any other question related to the conference"
+        }
+    },
+
+    "hotels" : {
+        "title": "Hotels",
+        "more": "More hotels on"
+  },
+
+  "location": {
+      "title": "Useful information"
+  }
+}

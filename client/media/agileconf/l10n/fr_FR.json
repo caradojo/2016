@@ -1,0 +1,153 @@
+﻿{
+    "accueil": {
+        "title": "Accueil"
+    },
+    
+    "agilegreconf": {
+        "title": "Agile Grenoble Conf: Jeudi 17 novembre",
+        "title_ag" : "Edition 2016 : Retour aux sources de l'agilité",
+        "description": "La grande journée habituelle du Jeudi avec un programme très riche constitué de nombreux tracks, de keynotes de grande qualité, de surprises, de café toute la journée et d’un apéro en fin d’après midi. Sans oublier les maintenant célèbres « Before » et « After » qui font maintenant partie des raisons pour venir à Grenoble pour cette journée.",
+        "link": {
+            "name": "Plus d'information...",
+            "addr": "http://"
+        },
+        "callforpaperstitle": "Appel à orateurs",
+        "callforpapers1": "L'appel à orateurs pour Agile Grenoble Conf va ouvrir <b>mi-juin</b>.<br/>Une présélection aura lieu début juillet.<br/>La finalisation du programme sera effectuée en septembre.",
+        "callforpapers2": "L'appel à orateurs est ouvert jusqu'au 3 septembre 2016.<br/> Une présélection aura lieu parmi ceux qui auront soumis avant le <b>8 juillet 2016</b>. La finalisation du programme sera effectuée en septembre.",
+        "callforpapers3": "L'appel à orateurs est ouvert jusqu'au 3 septembre 2016.<br/>La finalisation du programme sera effectuée en septembre.",
+        "callforpaperslink": {
+            "name" : "Soumettre une session...",
+            "addr" : "http://my.efm.me/m4/itw/answer/s/g626c681k2/k/AO"
+		},
+        "selection": "Une présélection a eu lieu parmi ceux qui ont soumis avant le 8 juillet 2016"
+    },
+	
+    "orateurs": {
+        "title": "Orateurs",
+        "description": "L'équipe de l'Agile Grenoble aura le plaisir de vous accueillir au Word Trade Center le jeudi 17 novembre 2016 pour une nouvelle journée d'échange autour de l'agilité. Chaque année une cinquantaine d'orateurs de France et d'ailleurs contribuent à livrer un programme de qualité et riche en diversité."
+    },
+    "themes" : {
+        "title": "Retour aux sources de l'agilité",
+        "description": "Agile Grenoble Conf sera l'occasion d'échanger et de partager autour des thèmes :",
+        "theme1": "Les individus et leurs interactions",
+        "theme2": "Des logiciels opérationnels",
+        "theme3": "La collaboration avec les clients",
+        "theme4": "L’adaptation au changement",
+        "explanation": "Ces thèmes vous rappellent quelque-chose ? Alors faites partie de l'aventure et venez (ré)explorer les 4 valeurs du manifeste agile en déposant votre idée de session pour la journée Agile Grenoble Conf du 17 novembre"
+
+    },
+
+    "keynotes": {
+        "title": "Keynotes",
+        "description": "En 2016 vous découvrirez plusieurs keynotes en plénière : en ouverture de la conférence et en début d'après-midi."
+    },
+
+    "sponsors": {
+        "title": "Sponsors",
+        "remerciements": "Merci à nos sponsors 2016",
+        "remerciements_partenaire": "Merci à nos partenaires 2016",
+        "more_informations": "Pour plus d'informations:"
+    },
+
+    "ticket": {
+        "title": "Billetterie",
+        "description": "La billetterie pour la journée classique de conférence Agile Grenoble du Jeudi 17 novembre sera ouverte à partir du 12 septembre 2016.",
+        "info": "Pour réserver les autres journées spécifiques de Agile Grenoble. Retournez sur l'accueil principal du site. "
+    },
+
+
+    "register" : {
+        "title": "Inscriptions",
+        "message_bientot": "Un peu de patience, la billeterie ouvrira courant septembre",
+        "description": "Désolé mais la conférence est à guichet complet. Chaque année depuis 8 ans la conférence démarre à guichet complet, victime de son succès.",
+        "link": {
+            "name": "Achetez votre billet",
+            "addr": "http://yurplan.com/event/Agile-Grenoble-2015/5619"
+        },
+        "queueLink": {
+            "name": "Liste d'attente",
+            "addr": "https://docs.google.com/forms/d/e/1FAIpQLScEF1Cgn44TG-uAR4qyX-e-bwTmccEgZ_-7q7kfcB5TM4JRkQ/viewform"
+        },
+        "registrationfinished": "Même si la billetterie est complète, vous avez d'autres options :<ul><li>Tenter la liste d'attente,</li><li>Agile Grenoble Lab du mercredi,</li><li>Agile Grenoble Forum du Vendredi</li><li>et durant toute l'année, participer aux rencontres du Club Agile Rhône-Alpes.</li></ul>"
+    },
+
+
+
+    "apropos" : {
+        "title": "A propos",
+        "description": "La conférence <strong>Agile Grenoble</strong> existe depuis 2008 et il s'agit de sa 9ème édition consécutive en 2016. L'évènement est entièrement organisé par les bénévoles du Club Agile Rhône-Alpes Grenoble, avec le soutien bien évidemment de nos sponsors et partenaires.",
+        "of": "de",
+        "under": "sous"
+    },
+
+    "cara": {
+        "title": "Club Agile Rhône Alpes (CARA)",
+        "description": "Le CARA est association loi 1901 dont la raison d'être est la promotion et la diffusion des méthodes agiles dans la région Rhône-Alpes au plus grand nombre et par tous moyens de communication et d’intervention: conférence, séminaire, rencontre ou partenariat.",
+        "link": {
+            "name": "Visiter le site du CARA",
+            "addr": "http://www.clubagilerhonealpes.org/"
+        },
+        "eventslink": {
+            "name": "Les autres événements du CARA",
+            "addr": "http://grenoble.clubagilerhonealpes.org/cat/activites"
+        },
+        "contactlink": {
+            "name": "Contacter le CARA",
+            "addr": "http://grenoble.clubagilerhonealpes.org/contact"
+        }
+    },
+
+    "program": {
+        "title": "Programme",
+        "nondisponible": "Le programme 2016 sera défini prochainement...  restez à l'écoute!",
+        "disponible": "Le programme de la conférence est désormais disponible!<br>Vous pouvez d'ores et déjà visualiser les sessions sélectionnées pour cette année ainsi que leur description.",
+        "link": {
+	    "title": "Voir le programme"
+	}
+    },
+
+    "hotels": {
+        "title": "Hôtels",
+        "more": "Plus d'hôtels sur"
+    },
+
+    "acces": {
+        "title": "Accès"
+    },
+
+    "inscriptions" : {
+        "title": "Inscriptions",
+        "price": "L'inscription à la conférence est obligatoire. Le tarif du billet d'entrée est de 50 €. Le billet donne droit d'accès à toutes les sessions de la conférence ainsi qu'à un déjeuner et aux boissons servies pendant les pauses.",
+        "description": "Les inscriptions devraient être ouvertes vers le 15 septembre."
+    },
+
+    "emails" : {
+        "title" : "Contacts",
+        "description": "Pour nous contacter avant la conférence envoyez-nous tout simplement un email :",
+        "orateur" : {
+            "addr": "orateur@agile-grenoble.org",
+            "desc": "pour l'appel à orateur et les soumissions de sessions"
+        },
+        "sponsor" : {
+            "addr": "sponsor@agile-grenoble.org",
+            "desc": "pour l'offre de sponsoring"
+        },
+        "inscription" : {
+            "addr": "inscription@agile-grenoble.org",
+            "desc": "pour les inscriptions à la conférence"
+        },
+        "contact" : {
+            "addr": "contact@agile-grenoble.org",
+            "desc": "pour toute autre question au sujet de la conférence"
+        }
+    },
+
+    "button": {
+        "close": "Fermer"
+    },
+
+    "topics": {
+        "title": "Slides",
+        "description": ""
+    }
+}
